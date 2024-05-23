@@ -1,6 +1,6 @@
 ![TGFileStore](https://telegra.ph/file/d651c7b7943a9702f846d.png)
 
-⍟ <b>𝗧𝗵𝗶𝘀 𝗶𝘀 𝗧𝗲𝗹𝗲𝗴𝗿𝗮𝗺 𝗣𝗮𝗿𝗺𝗮𝗻𝗲𝗻𝘁 𝗙𝗶𝗹𝗲𝘀 𝗦𝘁𝗼𝗿𝗲 𝗕𝗼𝘁 𝗯𝘆 [VJ_Botz](https://telegram.dog/VJ_Botz).<b>
+⍟ <b>𝗧𝗵𝗶𝘀 𝗶𝘀 𝗧𝗲𝗹𝗲𝗴𝗿𝗮𝗺 𝗣𝗮𝗿𝗺𝗮𝗻𝗲𝗻𝘁 𝗙𝗶𝗹𝗲𝘀 𝗦𝘁𝗼𝗿𝗲 𝗕𝗼𝘁 𝗯𝘆 [MSJ](https://telegram.dog/movies_series_junction).<b>
 
 * **Language:** [Python3](https://www.python.org)
 * **Library:** [Pyrogram](https://docs.pyrogram.org)
@@ -95,7 +95,7 @@ banned_users - Get All Banned Users [Owner Only]
 ### 𝐒𝐮𝐩𝐩𝐨𝐫𝐭 𝐆𝐫𝐨𝐮𝐩:
 <a href="https://telegram.dog/vj_bot_disscussion"><img src="https://img.shields.io/badge/Telegram-Join%20Telegram%20Group-green.svg?logo=telegram"></a>
 ### 𝐔𝐩𝐝𝐚𝐭𝐞𝐬 𝐂𝐡𝐚𝐧𝐧𝐞𝐥:
-<a href="https://telegram.me/VJ_Botz"><img src="https://img.shields.io/badge/Telegram-Join%20Telegram%20Channel-yellow.svg?logo=telegram"></a>
+<a href="https://telegram.me/movies_series_junction"><img src="https://img.shields.io/badge/Telegram-Join%20Telegram%20Channel-yellow.svg?logo=telegram"></a>
 
 
 👲 <b>DEV</b>
